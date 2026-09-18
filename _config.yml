@@ -6,6 +6,7 @@ paginate: 5
 paginate_path: /page:num/
 timezone: Asia/Hong_Kong
 excerpt_separator: "\n\n"
+locale: "en-US"
 
 # Site settings
 title: "Junteng Liu"
@@ -16,6 +17,10 @@ url: "https://boconelass.github.io"
 baseurl: "/LJT-Homepage"
 logo: "/assets/images/logo.png"
 repository: "boconelass/LJT-Homepage"
+
+# Theme features
+search: true
+mathjax: true
 
 # Plugins
 plugins:
